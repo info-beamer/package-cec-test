@@ -1,0 +1,6 @@
+{
+    "name": "Test CEC Remote Control input",
+    "author": "Florian Wesch <fw@info-beamer.com>",
+    "desc": "Forwards CEC commands and allows you to test your remote control",
+    "repository": "https://github.com/info-beamer/package-cec-test"
+}
